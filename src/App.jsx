@@ -3,7 +3,6 @@ import NewContainer from "./components/NewContainer"
 import Noticias from "./components/Noticias"
 import Header from "./components/Header"
 
-
 function App() {
   
 
